@@ -1,0 +1,1 @@
+console.log('Open Food Facts Explorer loaded');
